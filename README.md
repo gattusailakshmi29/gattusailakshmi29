@@ -58,6 +58,10 @@ I'm passionate about learning new technologies and building solutions that solve
   <a href="https://docker.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/> 
   </a> &nbsp;
+    <a href="https://www.salesforce.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="30" height="30"/>  
+  </a>
+  
 </p>
 
 ### 🧩 Projects & Achievements  
@@ -68,8 +72,7 @@ I'm passionate about learning new technologies and building solutions that solve
 ### 🏆 Certifications & Training  
 -  Certified Software Programmer  – Infosys  
 -  Generative AI by Microsoft & LinkedIn   
--  Certified AI Associate - 
-  <a href="https://www.salesforce.com/">
+-  Certified AI Associate - <a href="https://www.salesforce.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="30" height="30"/>  
   </a>
 
