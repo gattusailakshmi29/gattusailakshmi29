@@ -6,10 +6,10 @@
 </p>
 
 ### 👨‍💻 About Me  
-I'm a  Software Developer  based in  Asheville, NC , with a Master's in Computer & Information Sciences from  Western Illinois University .  
-I have experience working with  AI-driven products ,  full-stack applications , and  automation tools  to improve software reliability, user experience, and efficiency.  
+I'm a  Software Developer based in  Asheville, NC, with a Master's in Computer & Information Sciences from  Western Illinois University.  
+I have experience working with AI-driven products, full-stack applications, and automation tools to improve software reliability, user experience, and efficiency.  
 
-I'm passionate about learning new technologies and building solutions that solve real-world problems. My current focus is on  AI/ML ,  full-stack development , and  cloud technologies .  
+I'm passionate about learning new technologies and building solutions that solve real-world problems. 
 
 💡  Key Interests:   
 - Full-Stack Development  
@@ -68,7 +68,10 @@ I'm passionate about learning new technologies and building solutions that solve
 ### 🏆 Certifications & Training  
 -  Certified Software Programmer  – Infosys  
 -  Generative AI by Microsoft & LinkedIn   
--  Certified AI Associate - Salesforce   
+-  Certified AI Associate - 
+  <a href="https://www.salesforce.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="30" height="30"/>  
+  </a>
 
 ✨ *"Let's connect, collaborate, and build amazing solutions together!"*
   
