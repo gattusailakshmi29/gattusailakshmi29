@@ -70,9 +70,10 @@ I'm passionate about learning new technologies and building solutions that solve
 -  Online Food Ordering Platform : Built a responsive web app using Angular, Spring Boot, and MySQL.  
 
 ### 🏆 Certifications & Training  
--  Certified Software Programmer  – Infosys  
--  Generative AI by Microsoft & LinkedIn   
--  Certified AI Associate - SalesForce
+- Certified Software Programmer  – Infosys  
+- Generative AI by Microsoft & LinkedIn   
+- Certified AI Associate - SalesForce
+- Certified AI Specialist - SalesForce
 
 ✨ *"Let's connect, collaborate, and build amazing solutions together!"*
   
