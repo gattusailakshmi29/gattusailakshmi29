@@ -6,7 +6,7 @@
 </p>
 
 ### 👨‍💻 About Me  
-I'm a  Software Developer based in  Asheville, NC, with a Master's in Computer & Information Sciences from  Western Illinois University.  
+I'm a  Software Developer based in United States, with a Master's in Computer & Information Sciences from  Western Illinois University.  
 I have experience working with AI-driven products, full-stack applications, and automation tools to improve software reliability, user experience, and efficiency.  
 
 I'm passionate about learning new technologies and building solutions that solve real-world problems. 
